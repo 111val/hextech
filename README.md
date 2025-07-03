@@ -1,4 +1,6 @@
-# hextech
+# HEXTECH
+
+Kevin Arrua, Maximo Cabral, Valentina Palacios, Tomás Fleitas
 
 Título e imagen de portada;
 Insignias;
