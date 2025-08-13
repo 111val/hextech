@@ -1,6 +1,6 @@
 # HEXTECH
 
-Kevin Arrua, Valentina Palacios, Tomás Fleitas, Cristofer Vela, Leonard Rubio
+Valentina Palacios, Tomás Fleitas, Cristofer Vela, Leonard Rubio
 
 Título e imagen de portada;
 Insignias;
