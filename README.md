@@ -26,6 +26,7 @@ VER: https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-gi
 
 Estructura final del proyecto:
 tiendagimnasio/
+
 ├── index.php          <-- Mostrar productos y kits
 
 ├── conexion.php       <-- Conexión a MySQL
