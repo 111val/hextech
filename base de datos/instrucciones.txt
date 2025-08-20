@@ -1,3 +1,4 @@
 1) primero crear la tabla tienda_gimnasio
-2) subur el archivo
+2) subir el archivo
 3) listo
+
